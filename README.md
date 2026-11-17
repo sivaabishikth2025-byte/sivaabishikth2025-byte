@@ -1,8 +1,8 @@
-[![Siva — Systems Arcade. Enter the playable portfolio.](assets/arcade-header.svg)](https://sivaabishikth2025-byte.github.io/sivaabishikth2025-byte/)
+![Siva — AI engineering, cloud systems, and neural interfaces](assets/arcade-header.svg)
 
 <p align="center"><b>AI engineer · Full-stack developer · Speaker & mentor</b><br>AWS 10,000 AI Ideas Winner · 6× Hackathon Winner · AWS ABWG Alumni</p>
 
-<p align="center"><a href="https://sivaabishikth2025-byte.github.io/sivaabishikth2025-byte/"><b>▶ PLAY THE PORTFOLIO</b></a> &nbsp; / &nbsp; <a href="#mission-select">EXPLORE PROJECTS</a> &nbsp; / &nbsp; <a href="#current-research">CURRENT RESEARCH</a></p>
+<p align="center"><a href="#contribution-pac-man"><b>CONTRIBUTION PAC-MAN</b></a> &nbsp; / &nbsp; <a href="#mission-select">PROJECTS</a> &nbsp; / &nbsp; <a href="#current-research">RESEARCH</a></p>
 
 ```text
 > initialize player_001
@@ -12,13 +12,23 @@
   RESEARCH    Neural decoding / visual reconstruction from EEG
   OBJECTIVE   Turn ambitious ideas into working systems.
 
-  [@] YOU     [+] PROJECT NODE     [#] WALL
-  Move. Explore. Collect six nodes. Discover the work behind them.
 ```
+
+### Contribution Pac-Man
+
+My contribution history, eaten one square at a time.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eats my GitHub contribution squares while ghosts chase him" src="assets/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>Animated contribution replay · Generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).</sub>
 
 ### Mission select
 
-Explore a dossier below, or collect its node in the playable arcade.
+Open a dossier to explore the project and its source.
 
 <details>
 <summary><b>01 / Sift</b> — Python / AWS</summary>
@@ -79,4 +89,4 @@ AI pets and an agent command center.
 I’m working on autonomous drones, brain-controlled robotics, and neural decoding—particularly reconstructing visual data from EEG using BCI and AI. I’m interested in collaborating on neural decoding and EEG-based visual reconstruction.
 
 ---
-<sub>The arcade is a playable map of selected projects. Progress is stored in your browser; the GitHub profile itself uses native Markdown interactions.</sub>
+<sub>Exploring the intersection of AI, cloud systems, and neural interfaces.</sub>
